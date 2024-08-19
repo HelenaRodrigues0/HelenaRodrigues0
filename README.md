@@ -24,7 +24,7 @@
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/br/products/photoshop" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sjml/vscode-simple-icons/c793ea00bf212087a1b4e2e474181b2b4cd9c961/source/simple-icons/adobe-photoshop.svg" alt="Photoshop" width="40" height="40"/> </a>
+
 </p>
 
 <!-- Snake -->
