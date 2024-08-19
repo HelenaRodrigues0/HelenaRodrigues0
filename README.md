@@ -23,13 +23,24 @@
 <!-- Languages -->
 <h3 align="center">Languages:</h3>
 <p align="center">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
-
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
 </p>
 
-<!-- Snake -->
-![Snake animation](https://github.com/HelenaRodrigues0/HelenaRodrigues0/blob/output/github-contribution-grid-snake.svg)
+<!-- Tools -->
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/br/products/photoshop" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sjml/vscode-simple-icons/c793ea00bf212087a1b4e2e474181b2b4cd9c961/source/simple-icons/adobe-photoshop.svg" alt="Photoshop" width="40" height="40"/> </a></p>
 
+
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <!-- Footer -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=63B8FF&height=120&section=footer"/>
